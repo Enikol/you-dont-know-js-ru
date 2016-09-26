@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "eslint-config-i-am-meticulous/react"
+  ],
+  "rules": {
+    "react/prefer-stateless-function": 0
+  }
+}
